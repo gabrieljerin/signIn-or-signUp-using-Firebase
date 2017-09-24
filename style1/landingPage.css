@@ -82,8 +82,12 @@ html,body{
         color: #FFA01B;
         border: 3px solid #FFA01B;
     }
+    .firebase-icon-cls{
+        height: 94px;
+        width: 94px;
+    }
     .firebase-underline-cls{
-       width: 290px; 
+        width: 290px; 
     }
 }
 @media screen and(min-width:800px),(min-height:1280px){
@@ -98,7 +102,11 @@ html,body{
         color: #FFA01B;
         border: 3px solid #FFA01B;
     }
+    .firebase-icon-cls{
+        height: 94px;
+        width: 94px;
+    }
     .firebase-underline-cls{
-       width: 290px; 
+        width: 290px; 
     }
 }
