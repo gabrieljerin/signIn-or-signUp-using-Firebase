@@ -19,6 +19,7 @@
 <script type="text/javascript" src="./javascript/landingPage.js"></script>
 <script type="text/javascript" src="./scripts/md5.js"></script>
 <script type="text/javascript" src="./javascript/sign-up.js"></script>
+<script type="text/javascript" src="./javascript/login.js"></script>
 <script type="text/javascript" src="./scripts/icheck.min.js"></script>
 <?php
 require_once './modal/modal.php';

@@ -10,9 +10,7 @@
             ?>
             <div class="inner">
                 <div class="content animated rollIn">
-                    <div class="animated pulse infinite">
-                    <img class="firebase-icon-cls" src="./image/firebaseicon.jpg"/>
-                    </div>
+                    <img class="firebase-icon-cls animated pulse infinite" src="./image/firebaseicon.jpg"/>
                     <h1 class="heading-h1">Firebase Demo</h1>
                     <div>
                     <img class="firebase-underline-cls" src="./image/underline.jpg"/>

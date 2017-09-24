@@ -24,3 +24,11 @@ and open the template in the editor.
     margin-bottom: 15px;
     display: none; 
 }
+.alert-success-info{
+    text-align: center;
+    padding: 5px;
+    background-color: #51B85B;
+    color: white;
+    margin-bottom: 15px;
+    display: none;
+}
