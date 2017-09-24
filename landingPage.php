@@ -8,9 +8,11 @@
             <?php
             require_once './menu.php';
             ?>
-            <div class="inner animated zoomIn">
+            <div class="inner">
                 <div class="content animated rollIn">
+                    <div class="animated pulse infinite">
                     <img class="firebase-icon-cls" src="./image/firebaseicon.jpg"/>
+                    </div>
                     <h1 class="heading-h1">Firebase Demo</h1>
                     <div>
                     <img class="firebase-underline-cls" src="./image/underline.jpg"/>
