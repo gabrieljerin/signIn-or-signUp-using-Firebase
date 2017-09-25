@@ -9,6 +9,9 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>                        
       </button>
+        <div>
+        <img src="./image/lockup.png" class="logo-cls"/>
+        </div>
     </div>
       <!--------------------------------------------------------------------->
       <div class="collapse navbar-collapse" id="myNavbar">

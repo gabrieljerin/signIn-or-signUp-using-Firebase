@@ -3,7 +3,7 @@
     border-color: #0A741E;
 }
 .navbar-inverse{
-    background-color: #454444 !important;
+    background-color: #ececec !important;
     border-color: transparent !important;
 }
 .navbar-fixed-top{
@@ -14,10 +14,21 @@
     font-size: 25px;
 }
 .a-cls-hover{
-    color:white !important;
+    color:#6C6C6C !important;
 }
 .a-cls-hover:hover{
     background-color: gray !important;
+    color:white !important;
+}
+.logo-cls{
+    height: 50px;
+    margin-left: 35px;
+}
+.icon-bar{
+    background-color: #6C6C6C !important;
+}
+.navbar-toggle:hover{
+    background-color: #171616 !important;
 }
 .drp-menu-cls{
     border-color: rgb(0,0,0,0.2)!important;
