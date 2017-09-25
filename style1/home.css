@@ -68,8 +68,11 @@ label{
     font-size: 20px;
 }
 .drp-cls{
-    font-size: 19px;
+    font-size: 17px;
 }
 .txt-line-height{
     line-height: 50px;
+}
+.shadow-cls{
+    box-shadow: 0px 0px 5px #454444;
 }
