@@ -17,8 +17,8 @@
     color:#6C6C6C !important;
 }
 .a-cls-hover:hover{
-    background-color: gray !important;
-    color:white !important;
+    color:#26A0F6 !important;
+    transition: color 0.5s ease-out !important;
 }
 .logo-cls{
     height: 40px;
