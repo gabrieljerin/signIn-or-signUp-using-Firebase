@@ -10,8 +10,9 @@
     position: fixed !important;
 }
 .heading-cls{
-    color:white !important;
+    color:#6C6C6C !important;
     font-size: 25px;
+    float: right;
 }
 .a-cls-hover{
     color:#6C6C6C !important;

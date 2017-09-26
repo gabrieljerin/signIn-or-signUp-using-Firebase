@@ -10,7 +10,8 @@
         <span class="icon-bar"></span>                        
       </button>
         <div>
-        <img src="./image/lockup.png" class="logo-cls"/>
+        <img src="./image/icon.png" class="logo-cls"/>
+        <span class="navbar-brand heading-cls"><strong>Firebase Intro</strong></span>
         </div>
     </div>
       <!--------------------------------------------------------------------->
