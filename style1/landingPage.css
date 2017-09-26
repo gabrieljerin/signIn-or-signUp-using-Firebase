@@ -83,6 +83,9 @@ html,body{
     display: block;
     height: 30px;
 }
+.remove-dotted-lines{
+    outline: none;
+}
 .sc-cls{
     background-color: #ECECEC;
 }
@@ -92,6 +95,7 @@ html,body{
     bottom: 20px;
     right: 20px;
     display:none;
+    outline: none;
 }
 @media screen and(min-width:320px),(max-width:768px){
     .content .heading-h1{
@@ -101,7 +105,7 @@ html,body{
         font-size: 110%;
         padding: 7px 15px;
     }
-    .dummy-cls{
+    .para-cls{
         font-size: 100%;
         line-height: 160%
     }
@@ -111,6 +115,9 @@ html,body{
     }
     .firebase-underline-cls{
         width: 290px; 
+    }
+    #info:before{
+        height: 45px;
     }
 }
 @media screen and(min-width:800px),(min-height:1280px){
@@ -121,7 +128,7 @@ html,body{
         font-size: 135%;
         padding: 10px 20px;
     }
-    .dummy-cls{
+    .para-cls{
         font-size: 100%;
         line-height: 160%
     }
@@ -131,5 +138,8 @@ html,body{
     }
     .firebase-underline-cls{
         width: 290px; 
+    }
+    #info:before{
+        height: 45px;
     }
 }
