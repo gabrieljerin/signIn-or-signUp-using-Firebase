@@ -6,13 +6,11 @@
     background-color: #ececec !important;
     border-color: transparent !important;
 }
-.navbar-fixed-top{
-    position: fixed !important;
-}
 .heading-cls{
     color:#6C6C6C !important;
     font-size: 25px;
     float: right;
+    font-family: Raleway-Regular;
 }
 .a-cls-hover{
     color:#6C6C6C !important;
@@ -87,5 +85,5 @@ label{
     line-height: 50px;
 }
 .shadow-cls{
-    box-shadow: 0px 0px 5px #454444;
+    box-shadow: 0px 0px 16px #454444;
 }

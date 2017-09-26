@@ -11,7 +11,7 @@
       </button>
         <div>
         <img src="./image/icon.png" class="logo-cls"/>
-        <span class="navbar-brand heading-cls"><strong>Firebase Intro</strong></span>
+        <span class="navbar-brand heading-cls">Firebase Intro</span>
         </div>
     </div>
       <!--------------------------------------------------------------------->
